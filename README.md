@@ -3,5 +3,5 @@
 ## Independent Course Work I
 
 * one
-* two
+* zwei
 * three
